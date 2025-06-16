@@ -90,6 +90,6 @@ This runs the simulator with:
 This project was developed collaboratively by:
 
 * **Michael Laager** – Lead developer for the cache simulator core, including L1/L2 hierarchy, replacement policy logic, configuration parsing, and output formatting.
-* **[Jonathan Joslin](https://github.com/jjoslin0994)** –  Designer and developer of the **Graph-Based Markov Prefetcher**, including its graph construction, traversal, and prediction logic. Also responsible for the analysis of prefetching impact and memory access pattern modeling.
+* **[Jonathan Joslin](https://github.com/jjoslin0994)** –  Project lead, designer and developer of the **Graph-Based Markov Prefetcher**, including its graph construction, traversal, and prediction logic. Also responsible for the analysis of prefetching impact and memory access pattern modeling.
 
 The novel graph-based approach to pattern recognition and prediction  eliminated **40–98% of cache misses** depending on the trace characteristics.
